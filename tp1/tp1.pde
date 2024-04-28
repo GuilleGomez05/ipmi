@@ -1,3 +1,4 @@
+//Guille Gomez - Comision 2 - TP1
 PImage fondo;
 void setup() {
   size(800, 400 );
